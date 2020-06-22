@@ -1,6 +1,10 @@
 package com.soundsystem;
 
 
+/**
+ * Author: jsko
+ * Since: 2020.06.22
+ */
 public class BlankDisc {
 
   private final String title;
